@@ -1,0 +1,27 @@
+base:
+    font: ./need/fonts/SourceHanSansCN-Light.otf
+    bold_font: ./need/fonts/SourceHanSansCN-Bold.otf
+    input_dir: ./input
+    output_dir: ./output
+    quality: 100
+    
+logo:
+    enable: true
+    makes:
+        nikon:
+            id: NIKON
+            path: ./need/logos/nikon.png
+        canon:
+            id: Canon
+            path: ./need/logos/canon.png
+        sony:
+            id: SONY
+            path: ./need/logos/sony.png
+        pentax:
+            id: FUJIFILM
+            path: ./need/logos/fujifilm.png
+        lumix:
+            id: Panasonic
+            path: ./need/logos/lumix.png
+
+user: PHOTO BY 李福连
